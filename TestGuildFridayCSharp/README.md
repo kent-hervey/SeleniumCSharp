@@ -1,7 +1,9 @@
 ﻿
-Good working C# Selenium opens a file from testguild.com
+Working C# Selenium application 
 
-This web page was used to create:  https://testguild.com/selenium-webdriver-visual-studio/
+Opens a file from testguild.com
+
+This web page was used to create this application:  https://testguild.com/selenium-webdriver-visual-studio/
 
 Other pages by same author:
 
